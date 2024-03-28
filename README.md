@@ -95,4 +95,19 @@ BCS Xpert Learning assistant
 
 Office Hours
 
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.text.html
+https://stackoverflow.com/questions/10336614/scatter-plot-in-matplotlib
+https://stackoverflow.com/questions/73333542/how-to-make-scatter-graph-appear-clearer
+https://stackoverflow.com/questions/73193622/clean-column-in-data-frame
+https://stackoverflow.com/questions/65792083/python-pandas-dataframe-fast-way-to-clean-and-manipulate-data
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.pie.html
+https://stackoverflow.com/questions/62222719/matplotlib-pie-chart-from-dataframe
+https://stackoverflow.com/questions/21090316/plotting-pandas-dataframes-in-to-pie-charts-using-matplotlib
+https://www.tutorialspoint.com/how-do-you-create-line-segments-between-two-points-in-matplotlib
+https://stackoverflow.com/questions/8409095/set-markers-for-individual-points-on-a-line
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.std.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
+https://www.w3schools.com/python/pandas/ref_df_groupby.asp
+
+
 
